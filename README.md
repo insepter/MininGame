@@ -1,0 +1,2 @@
+# MininGame
+- Quiz game mining
